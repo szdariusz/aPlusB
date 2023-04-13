@@ -1,13 +1,14 @@
 {
   "name": "a-plus-b",
-  "homepage": "https://szdariusz.github.io/aPLusB",
+  "homepage": "https://szdariusz.github.io/aPlusB",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "yarn": "^1.22.19"
   },
   "scripts": {
     "predeploy": "npm run build",
